@@ -1,5 +1,5 @@
-a=100
-b=a +1000
+a=41414
+b=a +414141
 print(a)
-print("It is updated.....")
+print("hai.....")
  
