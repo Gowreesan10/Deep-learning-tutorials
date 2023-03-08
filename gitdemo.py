@@ -1,5 +1,5 @@
-a=100
-b=a +1000
+a=0
+b=a +0
 print(a)
-print("It is updated.....")
+print("It is me....")
  
