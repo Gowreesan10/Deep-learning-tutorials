@@ -1,4 +1,5 @@
-a=10;
-b=a;
+a=10
+b=a
 
-print(a);
+print(a)
+print("It is changed.....")
