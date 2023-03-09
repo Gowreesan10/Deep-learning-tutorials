@@ -1,5 +1,5 @@
-a=41414
-b=a +414141
+a=7777
+b=a +1111
 print(a)
-print("hai.....")
+print("master changed.....")
 
