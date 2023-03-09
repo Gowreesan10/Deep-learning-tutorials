@@ -1,5 +1,6 @@
 a=7777
-b=a +1111
+b=a +a
 print(a)
 print("master changed.....")
+print("hai.....")
 
